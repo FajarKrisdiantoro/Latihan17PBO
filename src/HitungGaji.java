@@ -1,3 +1,8 @@
+/* 
+Nama : Fajar Krisdiantoro
+Nim  : 22205004
+Prodi: TI REG MALAM
+*/
 import java.util.Scanner;
 
 public class HitungGaji {
